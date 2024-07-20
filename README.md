@@ -22,7 +22,7 @@
 </div>
 <br/>
 <hr/>
-<h2 align="center">🤝 Connect with 🤝</h2>
+<h2 align="center">🤝 Connect with Me 🤝</h2>
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/villagerindo/)
